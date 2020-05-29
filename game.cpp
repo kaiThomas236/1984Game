@@ -11,7 +11,7 @@ using namespace std;
 //reference page (get some more, research!) - http://www.cplusplus.com/forum/beginner/65037/
 //https://www.youtube.com/watch?v=oLCDLinBIzg
 
-//g++ -std=c++11 englFinal.cpp -o game && game
+//g++ -std=c++11 game.cpp -o game && game
 
 
 
